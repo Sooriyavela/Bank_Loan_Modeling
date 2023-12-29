@@ -75,7 +75,6 @@ From the above analysis, what we observe is that Both Random Forest and Decision
 The Random Forest model's ROC curve is slightly better than the Decision Tree's ROC curve as it is closer to the top-left corner of the graph. The AUC score for the Random Forest is slightly higher than that of the Decision Tree (0.9940 vs. 0.9846), indicating that the Random Forest performs slightly better in terms of distinguishing between the positive and negative classes based on the dataset.
 All the four AUC scores are above 0.5, which means that all the models perform better than random guessing. 
 
-![image](https://github.com/Sooriyavela/Bank_Loan_Modeling/assets/144498455/e10a5423-b410-4a53-a88d-94977d8dd43c)
 
 OVERALL SUMMARY:
 In the first step of this project, we imported various libraries and our data. Then we found out various things about our data.
